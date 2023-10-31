@@ -1,1 +1,4 @@
-# Lins-Logica-Programa-o
+#LogicadeProgramação
+
+
+Desenvolvimento de Software
